@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+/* Ziffern und Buchstaben in Tabellen gleich breit darstellen. */
+.mono {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+}
